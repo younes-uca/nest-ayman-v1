@@ -1,0 +1,44 @@
+{
+    "from-to": "Elements from {first} to {last} (total {totalRecords})",
+    "new" : "New",
+    "search": "Search",
+    "export": "Export",
+    "validate": "Validate",
+    "search": "Seach...",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "save": "Save",
+    "next": "Next",
+    "yes": "Yes",
+    "no": "No",
+    "actions": "Actions",
+    "confirm": "Confirm",
+    "creation": "Creation",
+    "list": "List",
+
+
+    "produit":{
+        "reference": "Reference",
+        "libelle": "Libelle",
+        "barcode": "Barcode",
+        "discription": "Discription",
+        "prixAchatMoyen": "Prix achat moyen",
+        "prixAchatMoyenMin": "Prix achat moyen Min",
+        "prixAchatMoyenMax": "Prix achat moyen Max",
+        "quantite": "Quantite",
+        "quantiteMin": "Quantite Min",
+        "quantiteMax": "Quantite Max",
+        "seuilAlert": "Seuil alert",
+        "seuilAlertMin": "Seuil alert Min",
+        "seuilAlertMax": "Seuil alert Max",
+        "produit": "Produit",
+        "tabPan": "Produit",
+        "header": "Liste des produits",
+        "deleteProduitConfirmationMessage": "Are you sure you want to delete produit",
+        "deleteProduitsConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+"appName": "GED"
+}
+
+
